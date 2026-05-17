@@ -1,0 +1,16 @@
+
+.header{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 10px 20px;
+  border-radius: 5px;
+
+}
+.log{
+    padding: 8px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
